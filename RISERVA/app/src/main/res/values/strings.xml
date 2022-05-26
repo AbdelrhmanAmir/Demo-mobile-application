@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RISERVA</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="cwomen">
+        <item>fatma awad</item>
+        <item>naglaa ahmed</item>
+        <item>aisha abdelhamid</item>
+        <item>hanan hussein</item>
+        <item>soaad abdelsamad</item>
+        <item>kawthar mohamed</item>
+        <item>omneya ali</item>
+        <item>esraa mahmoud</item>
+        <item>ebtsam moustfa</item>
+    </string-array>
+    <string-array name="awomen">
+
+        <item>faten saad</item>
+        <item>afnan magdy</item>
+        <item>eman ahmed</item>
+        <item>hana ashraf</item>
+
+    </string-array>
+    <string-array name="crating">
+        <item>Rating: 5.0</item>
+        <item>Rating: 4.5</item>
+        <item>Rating: 4.6</item>
+        <item>Rating: 4.8</item>
+        <item>Rating: 4.5</item>
+        <item>Rating: 4.7</item>
+        <item>Rating: 4.8</item>
+        <item>Rating: 4.9</item>
+        <item>Rating: 5.0</item>
+    </string-array>
+    <string-array name="arating">
+        <item>Rating: 5.0</item>
+        <item>Rating: 4.5</item>
+        <item>Rating: 4.6</item>
+        <item>Rating: 4.8</item>
+</string-array>
+</resources>

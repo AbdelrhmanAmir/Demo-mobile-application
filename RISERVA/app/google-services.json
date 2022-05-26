@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987904936171",
+    "project_id": "riserva-ad5de",
+    "storage_bucket": "riserva-ad5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987904936171:android:80fcd184241195f6ec96ae",
+        "android_client_info": {
+          "package_name": "com.example.riserva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987904936171-7abi8ud0matc852d96oe3rrl8csr1qi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7Nwm4IbQh6OnaUXTB2FQ7QB7j18dcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987904936171-7abi8ud0matc852d96oe3rrl8csr1qi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
